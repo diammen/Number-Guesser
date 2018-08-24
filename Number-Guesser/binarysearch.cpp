@@ -10,6 +10,7 @@ using std::cin;
 using namespace std::chrono_literals;
 using namespace std::this_thread;
 
+// find the mid point between two numbers
 int findMidPoint(int min, int max)
 {
 	return (min + max) / 2;
