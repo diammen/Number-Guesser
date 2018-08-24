@@ -115,6 +115,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="..\..\Tic-Tac-Toe\tic-tac-toe\clearscreen.cpp" />
     <ClCompile Include="binarysearch.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>

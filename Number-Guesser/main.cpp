@@ -23,6 +23,7 @@ int main()
 	cout << "Think of a number for me to guess." << endl;
 	cout << "Press enter to continue";
 	getchar();
+	ClearScreen();
 	// Game loop
 	while (!win)
 	{

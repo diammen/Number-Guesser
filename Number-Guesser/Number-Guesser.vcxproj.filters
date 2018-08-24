@@ -21,6 +21,9 @@
     <ClCompile Include="binarysearch.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\Tic-Tac-Toe\tic-tac-toe\clearscreen.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="binarysearch.h">
